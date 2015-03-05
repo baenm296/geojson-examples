@@ -2765,21 +2765,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8784896724,
-          40.7630836933
-        ]
-      },
-      "type": "Feature",
-      "id": "4013640023",
-      "properties": {
-        "vacant_sites": true,
-        "area": 0.019
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.8796195772,
           40.7412031915
         ]
